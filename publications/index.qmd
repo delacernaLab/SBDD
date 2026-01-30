@@ -1,0 +1,227 @@
+---
+title: "Publications"
+page-layout: article
+---
+
+```{=html}
+<style>
+.filter-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1.5rem 0;
+  padding: 1rem;
+  background: #f8f9fa;
+  border-radius: 8px;
+}
+
+.filter-btn {
+  padding: 0.4rem 0.8rem;
+  border: 1px solid #dee2e6;
+  background: white;
+  border-radius: 20px;
+  cursor: pointer;
+  font-size: 0.85rem;
+  transition: all 0.2s ease;
+}
+
+.filter-btn:hover {
+  background: #e9ecef;
+  border-color: #adb5bd;
+}
+
+.filter-btn.active {
+  background: #1816a9;
+  color: white;
+  border-color: #1816a9;
+}
+
+.pub-card {
+  transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+.pub-card.hidden {
+  display: none;
+}
+
+/* Fixed numbering for publications */
+.pub-info::before {
+  content: "[" attr(data-number) "] ";
+  font-weight: bold;
+}
+</style>
+
+<div class="filter-buttons" id="filterContainer">
+  <!-- Filter buttons will be generated automatically by JavaScript -->
+</div>
+```
+
+### Peer-Reviewed
+
+:::: {.pub-card data-tags="2025,Drug Discovery,PTP1B,Natural Products,Student-Led"}
+![](/publications/images/yost2025.png){.pub-thumb}
+
+::: {.pub-info data-number="9"}
+**Yost, C.Y.**, **dela Cerna, M.V.C.**+, Chaurasia,S.+ [*Eriodictyon californicum* Extract Inhibits Therapeutically Relevant Protein Tyrosine Phosphatase 1B](https://www.rjptonline.org/AbstractView.aspx?PID=2025-18-12-50), **Research Journal of Pharmacy and Technology**. 2025, 118(12): 5949, +co-corresponding
+
+[2025]{.tag} [Drug Discovery]{.tag} [PTP1B]{.tag} [Natural Products]{.tag} [Student-Led]{.tag}
+:::
+::::
+
+:::: {.pub-card data-tags="2024,Drug Discovery,KBSI Collaboration"}
+![](/publications/images/jung2024.png){.pub-thumb}
+
+::: {.pub-info data-number="8"}
+Jung, H-M., Ha, J-H., **dela Cerna, M.V.C.**, Burlison, J., Choi, J., Kim, B-R., Bang, J-K., Ryu, K-S., Lee, D.: [An Innovative Inhibitor with a New Chemical Moiety Aimed at Biliverdin IXβ Reductase for Thrombocytopenia and Resilient against Cellular Degradation](https://www.mdpi.com/1999-4923/16/9/1148), **Pharmaceutics**. 2024, 16(9): 1148.
+
+[2024]{.tag} [Drug Discovery]{.tag} [KBSI Collaboration]{.tag}
+:::
+::::
+
+:::: {.pub-card data-tags="2024,Drug Discovery,PRL3,Computational,Student-Led"}
+![](/publications/images/bennett2024.png){.pub-thumb}
+
+::: {.pub-info data-number="7"}
+**Bennett, G.**, **Starczewski, J.**, **dela Cerna, M.V.C.**: [In silico identification of putative druggable pockets in PRL3, a significant oncology target](https://www.sciencedirect.com/science/article/pii/S2405580824001316?via%3Dihub), **Biochemistry and Biophysics Reports**. 2024, 39: 101767.
+
+[2024]{.tag} [Drug Discovery]{.tag} [PRL3]{.tag} [Computational]{.tag} [Student-Led]{.tag}
+:::
+::::
+
+:::: {.pub-card data-tags="2024,Drug Discovery,PRL3,Collaboration"}
+![](/publications/images/atomwise2024.png){.pub-thumb}
+
+::: {.pub-info data-number="6"}
+**The Atomwise AIMS Program**+: [AI is a viable alternative to high throughput screening: a 318-target study](https://www.nature.com/articles/s41598-024-54655-z), **Scientific Reports**. 2024, 14: 7526, +including **M.V.C. dela Cerna**
+
+[2024]{.tag} [Drug Discovery]{.tag} [PRL3]{.tag} [Collaboration]{.tag}
+:::
+::::
+
+:::: {.pub-card data-tags="2022,Education"}
+![](/publications/images/delacerna2022b.png){.pub-thumb}
+
+::: {.pub-info data-number="5"}
+**dela Cerna, M.V.C.**: [Reflections on Multimodal Delivery of a Laboratory Course for Non-Science Majors and Opportunities for Improved Student Engagement](https://www.tandfonline.com/doi/abs/10.1080/0047231X.2022.12315658), **Journal of College Science Teaching**. 2022, 52(1): 29–34.
+
+[2022]{.tag} [Education]{.tag}
+:::
+::::
+
+:::: {.pub-card data-tags="2022,Computational,University of Louisville,Ateneo de Manila"}
+![](/publications/images/delacerna2022a.jpg){.pub-thumb}
+
+::: {.pub-info data-number="4"}
+**dela Cerna, M.V.C.**, Garcia, R.M.G., Guidote, A.M., Claudio, G.C.: [Molecular Dynamics Simulation of Iota-Carrageenan Hexamer as Single and Double Helices](https://bioone.org/journals/journal-of-the-kentucky-academy-of-science/volume-82/issue-1/1098-7096-82.1.32/Molecular-Dynamics-Simulation-of-an-%ce%b9-Carrageenan-Hexamer-as-Single/10.3101/1098-7096-82.1.32.short), **Journal of the Kentucky Academy of Science**. 2022, 82(1–2): 32–41.
+
+[2022]{.tag} [Computational]{.tag} [University of Louisville]{.tag} [Ateneo de Manila]{.tag}
+:::
+::::
+
+:::: {.pub-card data-tags="2021,Drug Discovery,PRL3,Collaboration,University of Louisville"}
+![](/publications/images/rivas2021.png){.pub-thumb}
+
+::: {.pub-info data-number="3"}
+Rivas, D.*, **dela Cerna, M.V.C.***, Smith, C.N., Sampathi, S., Patty, B.G., Lee, D., Blackburn, J.S.: [A screen of FDA-approved drugs identifies inhibitors of Protein Tyrosine Phosphatase 4A3 (PTP4A3 or PRL-3)](https://www.nature.com/articles/s41598-021-89668-5), **Scientific Reports**. 2021, 11: 10302, \*co-first authors
+
+[2021]{.tag} [Drug Discovery]{.tag} [PRL3]{.tag} [Collaboration]{.tag} [University of Louisville]{.tag}
+:::
+::::
+
+:::: {.pub-card data-tags="2019,Collaboration,University of Louisville"}
+![](/publications/images/tyo2019.png){.pub-thumb}
+
+::: {.pub-info data-number="2"}
+Tyo, K., Duan, J., Kollipara, P., **dela Cerna, M.V.C.**, Lee, D., Palmer, K., Steinbach-Rankins, J.: [pH-Responsive delivery of Griffithsin from electrospun fibers](https://www.sciencedirect.com/science/article/pii/S093964111830198X), **European Journal of Pharmaceutics and Biopharmaceutics** 2019, 138: 64–74.
+
+[2019]{.tag} [Collaboration]{.tag} [University of Louisville]{.tag}
+:::
+::::
+
+:::: {.pub-card data-tags="2016,Collaboration,Academia Sinica"}
+![](/publications/images/pal2016.png){.pub-thumb}
+
+::: {.pub-info data-number="1"}
+Pal, B., Lin, B-C., **dela Cerna, M.V.C.**, Hsu, C-P., Lin, C-H.: [Face-to-Face Packing of 2,3,9,10-Tetrasubstituted Pentacene Derivatives Revealed through a Solid State \[4 + 4\] Thermal Cycloaddition and Molecular Dynamic Simulation](https://pubs.acs.org/doi/10.1021/acs.joc.6b00526), **Journal of Organic Chemistry**. 2016, 81(15): 6223–6234.
+
+[2016]{.tag} [Collaboration]{.tag} [Academia Sinica]{.tag}
+:::
+::::
+
+```{=html}
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const pubCards = document.querySelectorAll('.pub-card');
+  const filterContainer = document.getElementById('filterContainer');
+  
+  // Collect all unique tags from publications
+  const allTags = new Set();
+  pubCards.forEach(card => {
+    const tags = card.getAttribute('data-tags');
+    if (tags) {
+      tags.split(',').forEach(tag => {
+        allTags.add(tag.trim());
+      });
+    }
+  });
+  
+  // Sort tags: years first (descending), then alphabetically
+  const tagsArray = Array.from(allTags).sort((a, b) => {
+    const isYearA = /^\d{4}$/.test(a);
+    const isYearB = /^\d{4}$/.test(b);
+    
+    if (isYearA && isYearB) {
+      return parseInt(b) - parseInt(a); // Years in descending order
+    } else if (isYearA && !isYearB) {
+      return -1; // Years come first
+    } else if (!isYearA && isYearB) {
+      return 1;
+    } else {
+      return a.localeCompare(b); // Alphabetical for non-years
+    }
+  });
+  
+  // Add "All" button first
+  const allBtn = document.createElement('button');
+  allBtn.className = 'filter-btn active';
+  allBtn.setAttribute('data-filter', 'all');
+  allBtn.textContent = 'All Publications';
+  filterContainer.appendChild(allBtn);
+  
+  // Add buttons for each unique tag
+  tagsArray.forEach(tag => {
+    const btn = document.createElement('button');
+    btn.className = 'filter-btn';
+    btn.setAttribute('data-filter', tag);
+    btn.textContent = tag;
+    filterContainer.appendChild(btn);
+  });
+  
+  // Add click handlers
+  const filterButtons = document.querySelectorAll('.filter-btn');
+  filterButtons.forEach(button => {
+    button.addEventListener('click', function() {
+      const filter = this.getAttribute('data-filter');
+      
+      // Update active button
+      filterButtons.forEach(btn => btn.classList.remove('active'));
+      this.classList.add('active');
+      
+      // Filter publications
+      pubCards.forEach(card => {
+        if (filter === 'all') {
+          card.classList.remove('hidden');
+        } else {
+          const tags = card.getAttribute('data-tags');
+          if (tags && tags.includes(filter)) {
+            card.classList.remove('hidden');
+          } else {
+            card.classList.add('hidden');
+          }
+        }
+      });
+    });
+  });
+});
+</script>
+```

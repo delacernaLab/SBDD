@@ -1,0 +1,29 @@
+---
+title: "Alicia Brinegar"
+image: /people/images/abrinegar.jpg  
+subtitle: "Research Assistant"
+categories: [Staff, Biochemistry]
+order: 2
+---
+
+::::::: {.columns .person-cols}
+:::: {.column width="28%"}
+![](/people/images/abrinegar.jpg){.avatar-lg alt="Alicia Brinegar"}
+
+::: {.d-flex .justify-content-center .gap-3 .flex-wrap .my-3}
+[LinkedIn](https://www.linkedin.com/in/alicia-brinegar-76991b186/){.btn .btn-sm .btn-outline-primary}
+:::
+::::
+
+:::: {.column width="72%"}
+::: {.fun .mint}
+Alicia is a Research Assistant in the dela Cerna lab. She is currently finishing up her BS in Biohealth Science degree from the e-campus of **Oregon State University**. She holds an **AS in Natural Science** from Holmes Community College. Prior to Georgia Southern, Alicia was a Research Technologist with the Protein Production Core and NMR Core in the **Brown Cancer Center** and the **Department of Medicine** at the **University of Louisville School of Medicinee**.
+:::
+::::
+:::::::
+
+::: {.fun .plum}
+### Outside the lab...
+
+I play Sims 💻 - Sims 3 is the best. I like reading 📚, mostly fiction series and sci-fi/witchy 💫 themes. Last year (2024), I finished reading 78 books. Cats 😺 😼 🐈 is life .
+:::

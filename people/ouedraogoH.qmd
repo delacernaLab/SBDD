@@ -1,0 +1,29 @@
+---
+title: "Honore Ouedraogo"
+image: /people/images/pouedraogo.png
+subtitle: "Graduate Student - MS"
+categories: [Graduate, APS]
+order: 5
+---
+
+::::::: {.columns .person-cols}
+:::: {.column width="28%"}
+![](/people/images/pouedraogo.png){.avatar-lg alt="Honore Ouedraogo"}
+
+::: {.d-flex .justify-content-center .gap-3 .flex-wrap .my-3}
+[Lab Page](https://sites.google.com/georgiasouthern.edu/dcproteinsci/home?authuser=0){.btn .btn-sm .btn-outline-primary}
+:::
+::::
+
+:::: {.column width="72%"}
+::: {.fun .mint}
+Honore is a graduate student in the dela Cerna lab in the **MS Applied Physical Science** program, with a concentration in Biochemical and Chemical Sciences.
+:::
+::::
+:::::::
+
+::: {.fun .amber}
+### Outside the lab...
+
+Honore's response is still loading.
+:::

@@ -1,0 +1,29 @@
+---
+title: "Kathryn Swindle"
+image: /people/images/kswindle.jpeg
+subtitle: "Research Assistant"
+categories: [Staff, Biochemistry]
+order: 2
+---
+
+::::::: {.columns .person-cols}
+:::: {.column width="28%"}
+![](/people/images/kswindle.jpeg){.avatar-lg alt="Kathryn Swindle"}
+
+::: {.d-flex .justify-content-center .gap-3 .flex-wrap .my-3}
+[Lab Page](https://sites.google.com/georgiasouthern.edu/dcproteinsci/home?authuser=0){.btn .btn-sm .btn-outline-primary}
+:::
+::::
+
+:::: {.column width="72%"}
+::: {.fun .mint}
+Kathryn is a Research Assistant in the dela Cerna lab, joining the group in October 2024. Prior to this, she obtained an **MS in Biochemistry** from the **University of Saint Joseph**.
+:::
+::::
+:::::::
+
+::: {.fun .amber}
+### Outside the lab...
+
+Kathryn's response is still loading.
+:::

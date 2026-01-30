@@ -1,0 +1,29 @@
+---
+title: "Mark dela Cerna, PhD"
+image: /people/images/mvcdelacerna.png   
+subtitle: "Principal Investigator"
+categories: [Faculty, PI]
+order: 1
+---
+
+::::::: {.columns .person-cols}
+:::: {.column width="28%"}
+![](/people/images/mvcdelacerna.png){.avatar-lg alt="Mark dela Cerna"}
+
+::: {.d-flex .justify-content-center .gap-3 .flex-wrap .my-3}
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=ZM5OfF4AAAAJ){.btn .btn-sm .btn-outline-primary} [GA Southern Scholars](https://scholars.georgiasouthern.edu/en/persons/mark-vincent-dela-cerna){.btn .btn-sm .btn-outline-primary} [Lab Instagram](https://www.instagram.com/delacernalab/){.btn .btn-sm .btn-outline-primary} [LinkedIn](https://www.linkedin.com/in/mark-vincent-dela-cerna-b1558311a/){.btn .btn-sm .btn-outline-primary}
+:::
+::::
+
+:::: {.column width="72%"}
+::: {.fun .mint}
+Mark earned his **PhD in Biochemistry and Molecular Genetics** from the [**University of Louisville School of Medicine**](https://louisville.edu/medicine/departments/biochemistry) in Louisville, KY. He trained in the use of nuclear magnetic resonance (NMR) spectroscopy to study protein dynamics and in drug discovery under the mentorship of Dr. T. Michael Sabo and Dr. Donghan Lee. While a graduate student at UofL, he was also an adjunct lecturer at [**Bellarmine University**](https://www.bellarmine.edu/) where he was able to pursue independent research with undergraduate students. It is at Bellarmine that he fell in love with mentoring undergraduate students in research. He is currently an Assistant Professor in the **Department of Biochemistry, Chemistry, and Physics** at Georgia Southern's **Armstrong** Campus in Savannah, GA.
+:::
+::::
+:::::::
+
+::: {.fun .plum}
+### Outside the lab...
+
+There's outside?? 😳 I like driving, but I do not know anything about cars. I do like Cars 🚗 , the Pixar movie. Other hobbies include reading books 📚, lately mostly non-fiction, but I also enjoy a lot of sci-fi and fantasy. Watching movies (Cars and Frozen ⛄, for instance, lol), and cooking 🍖 (or trying). Coffee ☕ is life and animals 🐈 are best. Cold weather and snow ❄️. Definitely, winter and late fall over summer and spring, which is unfortunate since we live in Savannah! Life without music 🎸 is hella boring. Sports can be fun: Kentucky Wildcats 🏀, Nashville Predators, Savannah Ghost Pirates 👻, and Memphis Grizzlies 🐻.
+:::

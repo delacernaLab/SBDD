@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Laboratory of Structural Biology and Drug Discovery"
+  navbar:
+    logo: images/temp_logo.png
+    left:
+      - file: index.qmd
+        text: Home
+      - file: research/index.qmd
+        text: Research
+      - file: people/index.qmd
+        text: People
+      - file: publications/index.qmd
+        text: Publications
+      - file: news/index.qmd
+        text: News
+      - file: contact.qmd
+        text: Contact
+    right:
+      - icon: github
+        href: https://github.com/mdelacerna
+  page-footer:
+   center: |
+      © <script>document.write(new Date().getFullYear())</script> dC Lab • Georgia Southern University
+  favicon: images/favicon.ico
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+
+editor: visual

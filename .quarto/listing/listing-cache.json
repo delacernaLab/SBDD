@@ -1,0 +1,17 @@
+{
+  "listingMap": {
+    "research/index.qmd": [
+      "."
+    ],
+    "news/index.qmd": [
+      ".",
+      "posts"
+    ],
+    "people/index.qmd": [
+      "*.qmd"
+    ],
+    "protocols/index.qmd": [
+      "."
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+---
+title: "Kaelin Winkler-Durst"
+image: /people/images/kwinklerdurst.jpeg
+subtitle: "Post-Bacc Intern"
+categories: [Post-Bacc, Chemistry]
+order: 4
+---
+
+::::::: {.columns .person-cols}
+:::: {.column width="28%"}
+![](/people/images/kwinklerdurst.jpeg){.avatar-lg alt="Kaelin Winkler-Durst"}
+
+::: {.d-flex .justify-content-center .gap-3 .flex-wrap .my-3}
+[Lab Page](https://sites.google.com/georgiasouthern.edu/dcproteinsci/home?authuser=0){.btn .btn-sm .btn-outline-primary}
+:::
+::::
+
+:::: {.column width="72%"}
+::: {.fun .mint}
+Kaelin is a post-baccalaureate student at Georgia Southern. She obtained her **BS in Nutrition and Food Science** with a minor in Chemistry from Georgia Southern.
+:::
+::::
+:::::::
+
+::: {.fun .amber}
+### Outside the lab...
+
+Kaelin's response is still loading.
+:::

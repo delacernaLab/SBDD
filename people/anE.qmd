@@ -1,0 +1,29 @@
+---
+title: "Ella An"
+image: /people/images/ean.jpeg
+subtitle: "High School"
+categories: [High School]
+order: 10
+---
+
+::::::: {.columns .person-cols}
+:::: {.column width="28%"}
+![](/people/images/ean.jpeg){.avatar-lg alt="Ella An"}
+
+::: {.d-flex .justify-content-center .gap-3 .flex-wrap .my-3}
+[Lab Page](https://sites.google.com/georgiasouthern.edu/dcproteinsci/home?authuser=0){.btn .btn-sm .btn-outline-primary}
+:::
+::::
+
+:::: {.column width="72%"}
+::: {.fun .mint}
+Ella is currently a senior at **Savannah Country Day School**.
+:::
+::::
+:::::::
+
+::: {.fun .amber}
+### Outside the lab...
+
+Ella's response is still loading.
+:::

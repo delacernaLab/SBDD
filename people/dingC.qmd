@@ -1,0 +1,29 @@
+---
+title: "Calvin Ding"
+image: /people/images/cding.jpg
+subtitle: "High School"
+categories: [High School]
+order: 10
+---
+
+::::::: {.columns .person-cols}
+:::: {.column width="28%"}
+![](/people/images/cding.jpg){.avatar-lg alt="Calvin Ding"}
+
+::: {.d-flex .justify-content-center .gap-3 .flex-wrap .my-3}
+[Lab Page](https://sites.google.com/georgiasouthern.edu/dcproteinsci/home?authuser=0){.btn .btn-sm .btn-outline-primary}
+:::
+::::
+
+:::: {.column width="72%"}
+::: {.fun .mint}
+Calvin is currently a senior at **Kamiak High School** in Washington. He participated in the Biochemistry Program of the Summer Science Program in the Summer of 2025, Purdue Campus Cohort, where he met Grace Bennett and Dr. dela Cerna
+:::
+::::
+:::::::
+
+::: {.fun .amber}
+### Outside the lab...
+
+Calvins's response is still loading.
+:::

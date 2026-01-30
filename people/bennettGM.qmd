@@ -1,0 +1,29 @@
+---
+title: "Grace Bennett"
+image: /people/images/gbennett.jpg  
+subtitle: "Research Assistant"
+categories: [Staff, Biochemistry]
+order: 2
+---
+
+::::::: {.columns .person-cols}
+:::: {.column width="28%"}
+![](/people/images/gbennett.jpg){.avatar-lg alt="Grace Bennett"}
+
+::: {.d-flex .justify-content-center .gap-3 .flex-wrap .my-3}
+[Google Scholar](https://scholar.google.com/citations?user=XrHHkCkAAAAJ){.btn .btn-sm .btn-outline-primary} [Instagram](https://www.instagram.com/gracemaebennett/){.btn .btn-sm .btn-outline-primary}
+:::
+::::
+
+:::: {.column width="72%"}
+::: {.fun .mint}
+Grace joined the lab in August 2022, the first official member of the dela Cerna lab when it opened at Georgia Southern, as an undergraduate researcher. She obtained her **BS in Biochemistry** in 2024 and her **MS in Applied Physical Sciences** in 2025. As a graduate student, Grace was recognized by a Graduate Research Achievement Award by the **College of Science and Mathematics** and a **Jack N. Averitt Award for Contributions and Achievements in Research**. She is currently a Research Assistant in the lab and plans to pursue a PhD in Biomedical Sciences in the near future.
+:::
+::::
+:::::::
+
+::: {.fun .amber}
+### Outside the lab...
+
+I play Sims - Sims 3 is the best. I like reading, mostly fiction series and sci-fi/witchy themes. Last year (2024), I finished reading 78 books. Cats is life.
+:::

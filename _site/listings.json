@@ -1,0 +1,44 @@
+[
+  {
+    "listing": "/protocols/index.html",
+    "items": [
+      "/protocols/ni-nta-purification.html",
+      "/protocols/sec-sizing.html"
+    ]
+  },
+  {
+    "listing": "/people/index.html",
+    "items": [
+      "/people/delaCernaMVC.html",
+      "/people/brinegarAL.html",
+      "/people/bennettGM.html",
+      "/people/swindleK.html",
+      "/people/winklerdurstK.html",
+      "/people/ouedraogoH.html",
+      "/people/samuelsJ.html",
+      "/people/sistosbarronO.html",
+      "/people/patelC.html",
+      "/people/blissG.html",
+      "/people/scrogginsH.html",
+      "/people/knechtM.html",
+      "/people/dingC.html",
+      "/people/anE.html",
+      "/people/wangM.html",
+      "/people/yangW.html"
+    ]
+  },
+  {
+    "listing": "/news/index.html",
+    "items": [
+      "/news/posts/2022-08-01-lab-opens.html"
+    ]
+  },
+  {
+    "listing": "/research/index.html",
+    "items": [
+      "/research/prl3_drugdiscovery.html",
+      "/research/bacterialPTP.html",
+      "/research/hd_stability.html"
+    ]
+  }
+]

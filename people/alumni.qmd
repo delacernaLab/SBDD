@@ -1,0 +1,55 @@
+---
+title: ""
+page-layout: article
+alumni: true
+---
+
+# Former Laboratory Members
+
+Our lab is committed to providing research opportunities to anyone who is interested and has the curiosity to pursue whatever research question. If you trained in the lab, in whatever role it might be, and you want your information updated, please contact Mark directly! Former members are listed based on their terminal position in the group.
+
+> **Key:**\
+> [UG]{.tag} Undergraduate · [VIP]{.tag} Vertically Integrated Projects Program [APS]{.tag} MS in Applied Physical Science · \[PSM\] Professional MS in Applied Physical Science · [PHD-BMED]{.tag} PhD in Biomedical Sciences · [RA]{.tag} Research Assistant · [HS]{.tag} High School · [MS]{.tag} Middle School · [PBacc]{.tag} Post-Bacc · [EXTS]{.tag} External Student Collaborator · [INT]{.tag} Intern · [VOL]{.tag} Volunteer
+
+## Graduate Students
+
+| Name | Program | Tenure | Last Known Position (Updated) |
+|------------------|------------------|------------------|------------------|
+| **Anna Feil** | PSM Applied Physical Science [PSM]{.tag} [INT]{.tag} [UG]{.tag} [VIP]{.tag} | 08/2023-12/2025 | Graduated 2025 |
+| **Olivia Creamer** | PSM Applied Physical Science [PSM]{.tag} [INT]{.tag} | 06/2024-05/2025 | Graduated (2025) |
+
+## Undergraduate Students
+
+| Name | Major | Tenure | Last Known Position (Updated) |
+|------------------|------------------|------------------|------------------|
+| **Ruby Pitts** | BS Biology [UG]{.tag} [VIP]{.tag} | 06/2025-07/2025 | Research Assistant, Vanderbilt University (2025) |
+| **Chase Yost** | BS Biology, Bellarmine [UG]{.tag} [EXTS]{.tag} | 01/2021-07/2025 | DO Student, Pikeville University (2025) |
+| **Hailey Chen** | BS Biology [UG]{.tag} | 01/2025-06/2025 | Current Student, Georgia Southern (2025) |
+| **Kaitlyn Van Ostenbridge** | BS Biochemistry [UG]{.tag} [VIP]{.tag} | 10/2023-06/2025 | Graduated (2025) |
+| **Nick Dillon** | BS Biochemistry [UG]{.tag} [VIP]{.tag} | 06/2023-05/2025 | Graduated (2025) |
+| **Jaden Jackson** | BS Physics [UG]{.tag} [VIP]{.tag} | 01/2024-05/2025 | Current Student, Georgia Southern (2025) |
+| **Victoire Komlan** | BS Rehabilitation Science [UG]{.tag} | 01/2025-05/2025 | Current Student, Georgia Southern (2025) |
+| **Asher Pence** | BS Biology, co-mentored with Dr. Shainaz Landge [UG]{.tag} | 08/2024-05/2025 | Graduated (2025) |
+| **Yoni Wondimu** | BS Biology [UG]{.tag} [VIP]{.tag} | 08/2024-05/2025 | Graduated (2025) |
+| **Elizabeth Abbott** | BS Biology [UG]{.tag} [VIP]{.tag} | 08/2024-12/2024 | Current Student, Georgia State (2025) |
+| **Ty Spencer** | BS Biochemistry/Biology [UG]{.tag} [VIP]{.tag} | 05/2023-05/2024 | Teacher, Jenkins HS (2024) |
+| **Davis Rutan** | BS Biochemistry [UG]{.tag} | 08/2022-05/2024 | PhD Student, University of Georgia (2024) |
+| **Kevin Truong** | BS Chemistry [VOL]{.tag} | 01/2024-05/2024 | Current Student, University of North Georgia (2024) |
+| **Jo Aguilar** | BS Biochemistry [UG]{.tag} [VIP]{.tag} | 08/2022-12/2022 | Current Student, Georgia Southern (2023) |
+| **Jasmine Rodriguez** | BS Biochemistry [UG]{.tag} [VIP]{.tag} | 08/2022-12/2023 | Current Student, University of South Florida (2024) |
+| **Annabelle Mayes** | BS Sustainability [UG]{.tag} [VIP]{.tag} | 08/2022-05/2023 | Current Student, Georgia Southern (2025) |
+| **Julia Starczewski** | BS Biochemistry [UG]{.tag} [VIP]{.tag} | 05/2022-05/2023 | MS Student, Nova Southeastern (2024) |
+| **Shreya Srikanth** | BS Biochemistry [UG]{.tag} | 08/2022-12/2022 | Current Student, Georgia Southern (2024) |
+| **Jacob Santana** | BS Biochemistry, Bellarmine [UG]{.tag} [EXTS]{.tag} | Bellarmine Days | MD Student, University of Kentucky (2025) |
+| **Tristan Whalen** | BS Biochemistry, Bellarmine [UG]{.tag} | Bellarmine Days | DO Student, Lincoln Memorial (2025) |
+| **Rahim Shalash** | BS Biochemistry, Bellarmine [UG]{.tag} | Bellarmine Days | MD Student, University of Louisville (2025) |
+| **Kate Weafer** | BS Neuroscience, Bellarmine [UG]{.tag} | Bellarmine Days | Student, Bellarmine University (2024) |
+| **Olivia Paris** | BS Biochemistry, Bellarmine [UG]{.tag} | Bellarmine Days | Student, Bellarmine University (2022) |
+| **Olivia Gamsky** | BS Biology, Bellarmine [UG]{.tag} | Belalrmine Days | Student, Bellarmine University (2023) |
+
+## Middle and High School Students
+
+| Name | MS/HS | Tenure | Last Known Position (Updated) |
+|------------------|------------------|------------------|------------------|
+| **Nicholass Preiss** | STEM Academy MS [MS]{.tag} [INT]{.tag} | 05/2024-07/2024 | Savannah Arts Academy HS (2025) |
+| **Victoria Zhang** | Savannah Arts Academy HS [HS]{.tag} [INT]{.tag} [VIP]{.tag} | 08/2023-05/2024 | Current Student, CalTech (2025) |

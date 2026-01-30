@@ -1,0 +1,357 @@
+---
+title: "Research in the dC Lab"
+page-layout: article
+---
+
+::: {.fun .mint}
+Our lab mottos, ***Curiosity leads to cures*** and ***The laboratory is our playground*** reflect our commitment to following our curiosities, not allowing ourselves to be restricted to specific research questions or techniques, but instead continuing to grow to broaden our horizons.
+:::
+
+We refer to our group as the **Laboratory of Structural Biology and Drug Discovery** to reflect our broad interests in the understanding protein structure, function, and dynamics and our mission to develop therapies for various diseases with proteins as primary targets. Beyond this, we are always excited to collaborate with other groups with complementary expertise, where we can leverage our expertise in protein biochemistry and bioNMR.
+
+::: {.fun .plum}
+If any of our projects sound interesting to you, or maybe you need help with anything involving proteins - such as recombinant protein expression or assay development - do not hesitate to reach out. We are always eager to work with similarly passionate folks!
+:::
+
+```{=html}
+<style>
+.research-card {
+  display: flex;
+  gap: 0.75rem;
+  align-items: flex-start;
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+  border-radius: 12px;
+  border: 1px solid rgba(0,0,0,.08);
+  background-color: white;
+  box-shadow: 0 2px 8px rgba(0,0,0,.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  min-height: 250px;
+}
+
+.research-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 20px rgba(0,0,0,.15);
+}
+
+.research-card > p {
+  margin: 0;
+  flex-shrink: 0;
+}
+
+.research-card > p img {
+  display: block;
+}
+
+.research-thumb {
+  width: 280px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 8px;
+  flex-shrink: 0;
+}
+
+.research-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.research-content h3 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  color: #1816a9;
+  font-size: 1.5rem;
+}
+
+.research-content p {
+  margin-bottom: 1rem;
+  line-height: 1.6;
+  flex-grow: 1;
+}
+
+.research-tags {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.research-tag {
+  font-size: 0.75rem;
+  padding: 0.3rem 0.7rem;
+  border-radius: 999px;
+  background: rgba(24, 22, 169, 0.1);
+  color: #1816a9;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.team-members {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: 1rem;
+  align-items: center;
+}
+
+.team-member-link {
+  display: inline-block;
+  transition: transform 0.2s ease;
+}
+
+.team-member-link:hover {
+  transform: scale(1.1);
+}
+
+.team-member-avatar {
+  width: 62px;
+  height: 62px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid #1816a9;
+  box-shadow: 0 2px 4px rgba(0,0,0,.1);
+}
+
+.team-label {
+  font-size: 0.85rem;
+  color: #666;
+  margin-right: 0.5rem;
+  font-weight: 500;
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+  .research-card {
+    flex-direction: column;
+    align-items: stretch;
+    min-height: auto;
+  }
+  
+  .research-thumb {
+    width: 100%;
+    height: 200px;
+  }
+}
+</style>
+```
+
+::::: research-card
+![](/research/images/prl3_drug.png){.research-thumb}
+
+:::: research-content
+### PRL3 Drug Discovery
+
+Our drug discovery program on PRL3, a pro-oncogenic and pro-metastatic phosphatase, leverages an integrated computational, enzyme inhibition, and _in vitro_ screening approach to develop migrastatics and anti-cancer therapies. Different pipelines have resulted to several inhibitors with binding to PRL3 validated by protein- and ligand-observed nuclear magnetic resonance (NMR) spectroscopy, fluorescence, and isothermal titration calorimetry (ITC). We are also designing and optimizing PROTACs and BioPROTACs.
+
+::: research-tags
+[Drug Discovery]{.research-tag} [PTP]{.research-tag} [Drug Screening]{.research-tag} [NIH-funded]{.research-tag} [Cancer Therapy]{.research-tag}
+:::
+
+::: team-members
+<span class="team-label"></span>
+[
+![](/people/images/gbennett.jpg){.team-member-avatar}
+](../people/bennettGM.qmd){.team-member-link}
+[
+![](/people/images/hscroggins.jpeg){.team-member-avatar}
+](../people/scrogginsH.qmd){.team-member-link}
+[
+![](/people/images/gbliss.png){.team-member-avatar}
+](../people/blissG.qmd){.team-member-link}
+[
+![](/people/images/mwang.png){.team-member-avatar}
+](../people/wangM.qmd){.team-member-link}
+:::
+::::
+:::::
+
+
+::::: research-card
+![](/research/images/prl3_struct.png){.research-thumb}
+
+:::: research-content
+### PRL3 Structure and Dynamics
+
+Structures of protein-complexes provide atomic resolution information for the optimization of small molecules and to establish mechanisms of inhibition. Our group uses NMR spectroscopy to characterize the structure of PRL3 bound to small molecule inhibitors. Furthermore, we are interested in the dynamics, at various timescales, associated with PRL3 dynamics, function, and inhibition and in uncovering allosteric networking within PRL3.
+
+::: research-tags
+[Structural Biology]{.research-tag} [PTP]{.research-tag} [Protein Dynamics]{.research-tag} [NIH-funded]{.research-tag} [Molecular Biophysics]{.research-tag}
+:::
+
+::: team-members
+<span class="team-label"></span>
+[
+![](/people/images/gbennett.jpg){.team-member-avatar}
+](../people/bennettGM.qmd){.team-member-link}
+[
+![](/people/images/hscroggins.jpeg){.team-member-avatar}
+](../people/scrogginsH.qmd){.team-member-link}
+:::
+::::
+:::::
+
+
+::::: research-card
+![](/research/images/ptpome.png){.research-thumb}
+
+:::: research-content
+### Druggability of Human PTPs
+
+A number of PTPs are emerging drug targets while several remain understudied and undrugged. We are optimizing the expression and purification of various human PTPs to uncover their structures and begin chemical probe screening. At the same time, we are using established computational tools to evaluate the druggability of PTPs which can accelerate virtual chemical screening pipelines. 
+
+::: research-tags
+[Drug Discovery]{.research-tag} [PTP]{.research-tag} [Structural Biology]{.research-tag} [Cancer Therapy]{.research-tag}
+:::
+
+::: team-members
+<span class="team-label"></span>
+[
+![](/people/images/abrinegar.jpg){.team-member-avatar}
+](../people/brinegarAL.qmd){.team-member-link}
+[
+![](/people/images/kswindle.jpeg){.team-member-avatar}
+](../people/swindleK.qmd){.team-member-link}
+[
+![](/people/images/mknecht.jpg){.team-member-avatar}
+](../people/knechtM.qmd){.team-member-link}
+[
+![](/people/images/ean.jpeg){.team-member-avatar}
+](../people/anE.qmd){.team-member-link}
+[
+![](/people/images/mwang.png){.team-member-avatar}
+](../people/wangM.qmd){.team-member-link}
+:::
+::::
+:::::
+
+
+::::: research-card
+![](/research/images/hd.png){.research-thumb}
+
+:::: research-content
+### Molecular Dynamics of Homeodomains
+
+Homeodomains are small highly conserved structures consisting of three-helix bundles. They are found in transcription factors across genomes, regulating development and cell fate. Several homeodomain structures have been determined and have been used to study DNA-protein interactions. Protein engineering approaches have also resulted to several thermostable homeodomains. We are using molecular dynamics simulations and NMR spectroscopy to study the relationship between structure, function, dynamics, and stability of homeodomains as well as protein allostery.
+
+::: research-tags
+[Structural Biology]{.research-tag} [Homeodomains]{.research-tag} [Protein Dynamics]{.research-tag} [Molecular Biophysics]{.research-tag}
+:::
+
+::: team-members
+<span class="team-label"></span>
+[
+![](/people/images/osistosbarron.png){.team-member-avatar}
+](../people/sistosbarronO.qmd){.team-member-link}
+:::
+::::
+:::::
+
+
+::::: research-card
+![](/research/images/wzb.png){.research-thumb}
+
+:::: research-content
+### Development of Novel Antibiotics
+
+We extend our interest in human PTPs to bacterial PTPs with a particular focus, currently, on low molecular weight protein tyrosine phosphatases. We use the same drug discovery pipelines we use our human PTP targets and collaborate with microbiologists to evaluate bacterial inhibition of molecules identified. This project is also incorporated in SynZyme, a CURE embedded in our upper-level bioinstrumental course, taught by Dr. dela Cerna and Dr. Landge.
+
+::: research-tags
+[Structural Biology]{.research-tag} [Drug Discovery]{.research-tag} [PTP]{.research-tag} [Antimicrobials]{.research-tag} [CURE]{.research-tag}
+:::
+
+::: team-members
+<span class="team-label"></span>
+[
+![](/people/images/pouedraogo.png){.team-member-avatar}
+](../people/ouedraogoH.qmd){.team-member-link}
+[
+![](/people/images/mknecht.jpg){.team-member-avatar}
+](../people/knechtM.qmd){.team-member-link}
+[
+![](/people/images/abrinegar.jpg){.team-member-avatar}
+](../people/brinegarAL.qmd){.team-member-link}
+:::
+::::
+:::::
+
+::::: research-card
+![](/research/images/d4n.png){.research-thumb}
+
+:::: research-content
+### Exploratory Drug Screening Efforts
+
+Our lab works on other non-PTP targets, using virtual screening methods, 19F-NMR screening of fluorinated fragment libraries, and nanobody development. These efforts are largely exploratory and early stage and focus on generating hits from virtual and real libraries the lab has access to, as well as molecules synthesized by collaborators within the department, through a drug discovery network. Projects include development of kinase inhibitors, protein-protein interaction inhibitors, and inhibitors of RNA-protein interactions. Trainees involved in this project also engage in assay development and optimization to support these efforts. 
+
+::: research-tags
+[Drug Discovery]{.research-tag} 
+:::
+
+::: team-members
+<span class="team-label"></span>
+[
+![](/people/images/abrinegar.jpg){.team-member-avatar}
+](../people/brinegarAL.qmd){.team-member-link}
+[
+![](/people/images/cpatel.jpeg){.team-member-avatar}
+](../people/patelC.qmd){.team-member-link}
+[
+![](/people/images/kwinklerdurst.jpeg){.team-member-avatar}
+](../people/winklerdurstK.qmd){.team-member-link}
+[
+![](/people/images/jsamuels.png){.team-member-avatar}
+](../people/samuelsJ.qmd){.team-member-link}
+[
+![](/people/images/mwang.png){.team-member-avatar}
+](../people/wangM.qmd){.team-member-link}
+:::
+::::
+:::::
+
+
+::::: research-card
+![](/research/images/deino.jpeg){.research-thumb}
+
+:::: research-content
+### Bacterial Evolution
+
+Lab-directed evolution of microorganisms can be achieved by exposure to different kinds of stressors. These experiments provide insight on evolutionary mechanisms for adaptation and survival, such in involving DNA repair machinery and antibiotic resistance. Growth of bacteria in the presence of other chemical species may also illuminate mechanisms for degradation of these chemical species. This project is a living example of our motto, _The laboratory of our playground_, with all projects being student-initiated and student-driven. 
+
+::: research-tags
+[Microbiology]{.research-tag} [Evolution]{.research-tag}
+:::
+
+::: team-members
+<span class="team-label"></span>
+[
+![](/people/images/jsamuels.png){.team-member-avatar}
+](../people/samuelsJ.qmd){.team-member-link}
+[
+![](/people/images/wyang.jpeg){.team-member-avatar}
+](../people/yangW.qmd){.team-member-link}
+:::
+::::
+:::::
+
+
+::::: research-card
+![](/research/images/membrane.png){.research-thumb}
+
+:::: research-content
+### Membrane Proteins
+
+Membrane proteins, particularly receptors and transporters, are critical components of biological membranes, allowing for communication and material transfer between the interior of cells and their environment. Our lab is interested in GPCRs and membrane protein transporters. Students in Dr. dela Cerna's Biochemistry 2 Laboratory course participate in several aspects of this project.
+
+::: research-tags
+[Molecular Biophysics]{.research-tag} [Structural Biology]{.research-tag} [CURE]{.research-tag}
+:::
+
+::: team-members
+<span class="team-label"></span>
+[
+![](/people/images/jsamuels.png){.team-member-avatar}
+](../people/samuelsJ.qmd){.team-member-link}
+[
+![](/people/images/abrinegar.jpg){.team-member-avatar}
+](../people/brinegarAL.qmd){.team-member-link}
+:::
+::::
+:::::
