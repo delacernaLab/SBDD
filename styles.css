@@ -1,0 +1,256 @@
+/* ===== Brand & type ===== */
+.navbar-brand { font-weight: 700; letter-spacing: 0.3px; }
+h1, h2 { letter-spacing: 0.2px; }
+.quarto-title .subtitle { font-style: italic; }
+.callout-tip { border-left-width: 6px; }
+
+/* ===== Footer ===== */
+.footer { font-size: 1em; }
+
+/* ===== Title banner with logo (home header) ===== */
+.quarto-title-block .quarto-title-banner .quarto-title {
+  display: grid; grid-template-columns: 120px 1fr; gap: 1rem; align-items: center;
+}
+.quarto-title-block .quarto-title-banner .quarto-title::before {
+  content: "";
+  width: 120px; height: 120px; border-radius: 16px;
+  background: url("images/temp_logo.png") center/contain no-repeat, #fff2;
+}
+/* Hide text brand if a logo is present */
+.navbar-brand .navbar-title { display: none; }
+
+/* ===== Figure caption helper (hero figure) ===== */
+.front-matter-fig figcaption { font-size: 0.65em !important; color: #726f72 !important; }
+.front-matter-fig { margin: 1rem 0 2rem; }
+
+/* ===== Intro block on home ===== */
+.intro { max-width: 780px; margin: 0 auto 1rem; }
+.intro p { font-size: 1.2rem; }
+
+/* ===== Buttons ===== */
+a.btn { margin-right: .5rem; margin-top: .4rem; }
+.btn-primary {
+  --bs-primary: #1816a9;
+  background-color: var(--bs-primary);
+  border-color: var(--bs-primary);
+  background-image: none;
+}
+.btn-primary:hover, .btn-primary:focus {
+  background-color: #1816a9; border-color: #1816a9;
+}
+.btn-outline-primary {
+  --bs-primary: #1816a9;
+  color: var(--bs-primary); border-color: var(--bs-primary);
+}
+.btn-outline-primary:hover, .btn-outline-primary:focus {
+  color: #fff; background-color: var(--bs-primary); border-color: var(--bs-primary);
+}
+
+/* ===== Hero image on home ===== */
+.hero-img {
+  width: 100%; max-height: 420px; object-fit: cover;
+  border-radius: 12px; box-shadow: 0 6px 20px rgba(0,0,0,.08); display: block;
+}
+
+/* ===== Navbar active/hover ===== */
+.navbar .navbar-nav .nav-link.active,
+.navbar .navbar-nav .nav-link[aria-current="page"] {
+  color: #1816a9 !important; font-weight: 700;
+}
+.navbar .navbar-nav .nav-link:hover { color: #1816a9; }
+.navbar .navbar-nav .nav-link.active { border-bottom: 2px solid currentColor; padding-bottom: .2rem; }
+
+/* ===== Home "What we do" band ===== */
+.home-band {
+  background: #f8f9fa; border: 1px solid rgba(0,0,0,.06);
+  border-radius: 12px; padding: 1.25rem 1rem; margin: 2rem 0; font-size: .9rem;
+}
+.home-band h2 { margin-top: 0; font-size: 1.2rem; text-align: center; }
+.home-band h3 { font-size: 1.02rem; margin: .2rem 0 .35rem; }
+.home-band .columns { gap: 1rem; }
+.home-band .column { margin-bottom: 1rem; }
+.home-band li { margin-bottom: .25rem; }
+@media (max-width: 768px) {
+  .home-band { padding: 1rem; font-size: 1rem; }
+  .home-band h2 { font-size: 1.2rem; }
+  .home-band h3 { font-size: 1.06rem; }
+}
+
+/* ===== "Fun" callouts (people pages) ===== */
+.fun {
+  border: 1px solid rgba(0,0,0,.08);
+  border-left-width: 6px; border-radius: 10px;
+  padding: .85rem 1rem; margin: .9rem 0; background-color: #f8f9fa;
+}
+.fun h3, .fun h4 { margin: 0 0 .45rem; font-weight: 700; }
+.fun.mint  { border-left-color:#0f766e; background-color: rgba(15,118,110,.08); }
+.fun.amber { border-left-color:#b45309; background-color: rgba(180,83,9,.08); }
+.fun.plum  { border-left-color:#7c3aed; background-color: rgba(124,58,237,.08); }
+.fun.mint  h3, .fun.mint  h4 { color:#0f766e; }
+.fun.amber h3, .fun.amber h4 { color:#b45309; }
+.fun.plum  h3, .fun.plum  h4 { color:#7c3aed; }
+
+/* ===== Individual person page (two-column) ===== */
+.columns.person-cols { column-gap: 2rem; row-gap: 1rem; align-items: start; }
+.columns.person-cols > .column:first-child { padding-right: .8rem; }
+.avatar-lg {
+  width: 100%; aspect-ratio: 1 / 1; border-radius: 9999px;
+  object-fit: cover; object-position: center top;
+  box-shadow: 0 6px 20px rgba(0,0,0,.08);
+}
+
+/* ===== Publications tidy ===== */
+h2#references, .csl-bib-title { display: none; }
+
+/* ===== Card container: image left, text right ===== */
+.pub-card {
+  display: flex;
+  gap: 1.2rem;
+  align-items: flex-start;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 10px;
+  border: 1px solid rgba(0,0,0,0.08);
+  background-color: rgba(0,0,0,0.01);
+}
+
+/* Thumbnail image */
+.pub-thumb {
+  width: 110px;
+  height: 110px;
+  object-fit: cover;
+  border-radius: 8px;
+  flex-shrink: 0;
+}
+
+/* Right-hand text column */
+.pub-info {
+  flex: 1;
+}
+
+.pub-info a {
+  text-decoration: none;
+}
+
+.pub-info a:hover {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.pub-info em {
+  font-style: italic;
+}
+
+/* Mobile: stack image above text */
+@media (max-width: 768px) {
+  .pub-card {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .pub-thumb {
+    width: 100%;
+    height: auto;
+    max-height: 220px;
+  }
+}
+
+.tag {
+  display: inline-block;
+  font-size: 0.7rem;
+  padding: 0.1rem 0.55rem;
+  margin-right: 0.25rem;
+  margin-top: 0.25rem;
+  border-radius: 999px;
+  background: rgba(0, 0, 0, 0.06);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+/* ===== PEOPLE PAGE GRID - CLEAN RECTANGULAR CARDS ===== */
+
+/* Nice card styling with hover effect - NO BORDER */
+.quarto-listing-grid .card {
+  border: none;
+  border-radius: 8px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0,0,0,.08);
+}
+
+.quarto-listing-grid .card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 20px rgba(0,0,0,.15);
+}
+
+/* Taller portrait-style images */
+.quarto-listing-grid .card img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  object-position: center top;
+  border-radius: 8px 8px 0 0;
+}
+
+/* Card content */
+.quarto-listing-grid .card-body {
+  padding: 1rem;
+  background: white;
+}
+
+.quarto-listing-grid .card-title {
+  font-weight: 700;
+  font-size: 1.1rem;
+  margin-bottom: 0.25rem;
+}
+
+.quarto-listing-grid .card-subtitle {
+  font-size: 0.9rem;
+  opacity: 0.8;
+  margin-bottom: 0.5rem;
+}
+
+/* Category tags */
+.listing-categories {
+  display: flex;
+  gap: 0.4rem;
+  flex-wrap: wrap;
+  margin-top: 0.5rem;
+}
+
+.listing-category {
+  font-size: 0.7rem;
+  padding: 0.2rem 0.6rem;
+  border-radius: 999px;
+  background: rgba(24, 22, 169, 0.1);
+  color: #1816a9;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+/* Responsive grid */
+@media (max-width: 1200px) {
+  .quarto-listing-grid {
+    grid-template-columns: repeat(3, 1fr) !important;
+  }
+}
+
+@media (max-width: 768px) {
+  .quarto-listing-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
+  
+  .quarto-listing-grid .card img {
+    height: 220px;
+  }
+}
+
+@media (max-width: 480px) {
+  .quarto-listing-grid {
+    grid-template-columns: 1fr !important;
+  }
+  
+  .quarto-listing-grid .card img {
+    height: 300px;
+  }
+}
