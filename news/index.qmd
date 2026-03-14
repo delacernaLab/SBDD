@@ -121,6 +121,19 @@ page-layout: article
 <div class="timeline">
 
   <div class="timeline-item">
+    <div class="timeline-date">2026 Mar 02</div>
+    <div class="timeline-marker"></div>
+    <div class="timeline-content">
+      <h3>The lab will have its first PhD student!</h3>
+      <p>Former BS and MS student and current research assistant, Grace Bennett, has been offered a position (which she has accepted) to the inaugural cohort of the PhD in Biomedical Sciences program at Georgia Southern! Assuming she does not change her mind, she will join our lab and continue her work on PRL3. Congratulations, Grace! </p>
+      <div class="timeline-tags">
+        <span class="timeline-tag">Student</span>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="timeline-item">
     <div class="timeline-date">2026 Feb 28</div>
     <div class="timeline-marker"></div>
     <div class="timeline-content">
