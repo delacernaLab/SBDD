@@ -11,7 +11,7 @@ order: 6
 ![](/people/images/jsamuels.png){.avatar-lg alt="Jada Samuels"}
 
 ::: {.d-flex .justify-content-center .gap-3 .flex-wrap .my-3}
-[Lab Page](https://sites.google.com/georgiasouthern.edu/dcproteinsci/home?authuser=0){.btn .btn-sm .btn-outline-primary}
+[Lab Page](https://delacernalab.github.io/SBDD/){.btn .btn-sm .btn-outline-primary}
 :::
 ::::
 

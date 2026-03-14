@@ -23,6 +23,13 @@ Several drug discovery programs are currently ongoing for development of potenti
 
 Additionally, we are interested in uncovering the relationship between protein structure, function, and dynamics. The lab also collaborates with other investigators within and outside Georgia Southern to pursue projects related to biochemistry, broadly.
 
+Our PRL3 research is funded by the **National Institutes of Health** through an R16 (**R16GM154696**) with additional instrumentation support (**S15OD039824**). Additionally, several projects in the lab supported by a number internal grants, including a **Faculty Council Seed Grant** and two **Collaborative Grant Initiatives** (with Dr. Brown and Dr. Chitiyo) from COSM, with support from the **Vertically Integrated Projects** Program at GS and the **Office of Research and Economic Development**. 
+
+::: front-matter-fig
+![](images/funding.png){.hero-img fig-alt="Current Funding Sources" width="100%"}
+:::
+
+
 ::::::: home-band
 ## What are we currently working on? {.text-center}
 

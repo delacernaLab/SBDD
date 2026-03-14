@@ -174,7 +174,7 @@ ul.task-list li input[type="checkbox"] {
 <td><strong>Anna Feil</strong></td>
 <td>PSM Applied Physical Science <span class="tag">PSM</span> <span class="tag">INT</span> <span class="tag">UG</span> <span class="tag">VIP</span></td>
 <td>08/2023-12/2025</td>
-<td>Graduated 2025</td>
+<td>Graduated (2025)</td>
 </tr>
 <tr class="even">
 <td><strong>Olivia Creamer</strong></td>
@@ -461,7 +461,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/delacernaLab\.github\.io\/SBDD\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

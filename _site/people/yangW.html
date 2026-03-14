@@ -117,10 +117,6 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">News</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../protocols/index.html"> 
-<span class="menu-text">Protocols</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="../contact.html"> 
 <span class="menu-text">Contact</span></a>
   </li>  
@@ -173,7 +169,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="column" style="width:28%;">
 <p><img src="../people/images/wyang.jpeg" class="avatar-lg img-fluid" alt="Walter Yang"></p>
 <div class="d-flex justify-content-center gap-3 flex-wrap my-3">
-<p><a href="https://sites.google.com/georgiasouthern.edu/dcproteinsci/home?authuser=0" class="btn btn-sm btn-outline-primary">Lab Page</a></p>
+<p><a href="https://delacernalab.github.io/SBDD/" class="btn btn-sm btn-outline-primary">Lab Page</a></p>
 </div>
 </div><div class="column" style="width:72%;">
 <div class="fun mint">
@@ -262,7 +258,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/delacernaLab\.github\.io\/SBDD\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

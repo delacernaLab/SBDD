@@ -278,6 +278,20 @@ ul.task-list li input[type="checkbox"] {
 <div class="timeline">
 
   <div class="timeline-item">
+    <div class="timeline-date">2026 Feb 28</div>
+    <div class="timeline-marker"></div>
+    <div class="timeline-content">
+      <h3 class="anchored">Mark presents at SOTL 2026</h3>
+      <p>Dr. dela Cerna and Dr. Landge share their work on SynZyme at the Scholarship of Teaching and Learning (SoTL) in Savannah, Georgia. SynZyme (Synthetic Chemistry and Enzyme Inhibition) is a Course-based Undergraduate Research Experience (CURE) embedded in the Bioinstrumental Chemistry/Instrumental Analysis Course at Georgia Southern - Armstrong. </p>
+      <img src="../news/images/2026Feb28.png" class="timeline-image" alt="SOTL 2026">
+      <div class="timeline-tags">
+        <span class="timeline-tag">Talk</span>
+      </div>
+    </div>
+  </div>
+
+    
+  <div class="timeline-item">
     <div class="timeline-date">2026 Jan 25</div>
     <div class="timeline-marker"></div>
     <div class="timeline-content">
@@ -660,7 +674,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/delacernaLab\.github\.io\/SBDD\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

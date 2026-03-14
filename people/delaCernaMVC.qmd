@@ -22,6 +22,25 @@ Mark earned his **PhD in Biochemistry and Molecular Genetics** from the [**Unive
 ::::
 :::::::
 
+::: {.fun .amber}
+### Courses taught...
+
+- BCHEM5202L - Biochemistry Lab, _current_
+- CHEM5000 - Biochemistry in the 21st century, _current_
+- CHM819 - NMR Spectroscopy (Protein NMR), [De La Salle U](https://www.dlsu.edu.ph/), _current_
+- BCHEM3100 - Bioinstrumental Chemistry
+- BCHEM3510 - Biophysical Chemistry
+- CHEM5000 - Protein Engineering and Design
+- CHEM1211 - General Chemistry I
+- CHEM103L/CHEM104L - General Chemistry Labs, [Bellarmine U](https://www.bellarmine.edu/)
+- CHEM109 - Liberal Arts Chemistry, Bellarmine U
+- IDC101 - Science and Society, Bellarmine U
+- BMB301L / BMB302L - Biochemistry Labs, Bellarmine U
+- MATH 11 - College Algebra, [Ateneo de Manila U](https://www.ateneo.edu/)
+- MATH 18b - Principles of Mathematics II, Ateneo de Manila U
+
+:::
+
 ::: {.fun .plum}
 ### Outside the lab...
 
