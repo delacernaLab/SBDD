@@ -58,23 +58,46 @@ page-layout: article
 
 ### Peer-Reviewed
 
+:::: {.pub-card data-tags="2026,Protein Biochemistry,GS Collaboration, Structural Biology"}
+![](/publications/images/marsee2026.png){.pub-thumb}
+
+::: {.pub-info data-number="11"}
+Marsee, J., Brambley, C., Ho, T., Callaway, W., Jansch, A., Taylor, K., Watson-Sanders, S., Williams, B., Wolvington, A., Nguyen, T., Khan, L., **Claros Cabrera, C.N.**, **dela Cerna, M.V.C.**, Wallen, J., Weiland, M., Miller, J: [Expansion of the known poly(aspartic acid) hydrolases through the identification of four new PahZ1 homologs](https://academic.oup.com/peds/article/doi/10.1093/protein/gzag006/8502069), **Protein Engineering, Design and Selection**. 2026, 39: gzag006.
+
+[2026]{.tag} [Protein Biochemistry]{.tag} [GS Collaboration]{.tag} [Structural Biology]{.tag}
+:::
+::::
+
+
+:::: {.pub-card data-tags="2026,Drug Discovery, GS Collaboration, Student-Led"}
+![](/publications/images/seymour2026.png){.pub-thumb}
+
+::: {.pub-info data-number="10"}
+Seymour, A., Peterson, C., Osafo, R., Ashimi, A., Williams, D., Echezabal, L., Carrier, C., Clark, A., Padgett, C., **dela Cerna, M.V.C.**, Uti, Z., Wanduku, D., Shank, N., Aiken, K., Kocerha, J.: A LAT1-Compatible, Leadlike Tyrosine-Naphthoquinone Conjugate with Anticancer Activity, **Drug Development Research**. 2026. In Press
+
+
+[2026]{.tag} [Drug Discovery]{.tag} [GS Collaboration]{.tag} [Student-Led]{.tag}
+:::
+::::
+
+
 :::: {.pub-card data-tags="2025,Drug Discovery,PTP1B,Natural Products,Student-Led"}
 ![](/publications/images/yost2025.png){.pub-thumb}
 
 ::: {.pub-info data-number="9"}
-**Yost, C.Y.**, **dela Cerna, M.V.C.**+, Chaurasia,S.+ [*Eriodictyon californicum* Extract Inhibits Therapeutically Relevant Protein Tyrosine Phosphatase 1B](https://www.rjptonline.org/AbstractView.aspx?PID=2025-18-12-50), **Research Journal of Pharmacy and Technology**. 2025, 118(12): 5949, +co-corresponding
+**Yost, C.Y.**, **dela Cerna, M.V.C.**+, Chaurasia,S.+: [*Eriodictyon californicum* Extract Inhibits Therapeutically Relevant Protein Tyrosine Phosphatase 1B](https://www.rjptonline.org/AbstractView.aspx?PID=2025-18-12-50), **Research Journal of Pharmacy and Technology**. 2025, 118(12): 5949, +co-corresponding
 
 [2025]{.tag} [Drug Discovery]{.tag} [PTP1B]{.tag} [Natural Products]{.tag} [Student-Led]{.tag}
 :::
 ::::
 
-:::: {.pub-card data-tags="2024,Drug Discovery,KBSI Collaboration"}
+:::: {.pub-card data-tags="2024,Drug Discovery,KBSI Collaboration,Structural BIology"}
 ![](/publications/images/jung2024.png){.pub-thumb}
 
 ::: {.pub-info data-number="8"}
 Jung, H-M., Ha, J-H., **dela Cerna, M.V.C.**, Burlison, J., Choi, J., Kim, B-R., Bang, J-K., Ryu, K-S., Lee, D.: [An Innovative Inhibitor with a New Chemical Moiety Aimed at Biliverdin IXβ Reductase for Thrombocytopenia and Resilient against Cellular Degradation](https://www.mdpi.com/1999-4923/16/9/1148), **Pharmaceutics**. 2024, 16(9): 1148.
 
-[2024]{.tag} [Drug Discovery]{.tag} [KBSI Collaboration]{.tag}
+[2024]{.tag} [Drug Discovery]{.tag} [Structural Biology]{.tag} [KBSI Collaboration]{.tag}
 :::
 ::::
 
