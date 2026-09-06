@@ -1,56 +1,73 @@
 ---
-title: "Laboratory of Structural Biology and Drug Discovery"
-subtitle: "Curiosity leads to cures."
-page-layout: article
+title: ""
+pagetitle: "dela Cerna Lab | Structural Biology & Drug Discovery"
+page-layout: full
 ---
 
-::: {.intro .text-center}
-**Welcome to our lab's online home!**
+::::: home-hero
+:::: hero-copy
+[GEORGIA SOUTHERN UNIVERSITY · SAVANNAH]{.eyebrow}
+
+# Curiosity leads to cures.
+
+[Laboratory of Structural Biology and Drug Discovery]{.lab-name}
+
+We explore how proteins work—and how to target them. Our research connects protein structure and dynamics with the discovery of potential therapies for cancer and infectious diseases.
+
+::: hero-actions
+[Explore our research](research/index.qmd){.btn .btn-primary} [Meet the team](people/index.qmd){.btn .btn-outline-primary} [Join the lab](contact.qmd#join){.btn .btn-outline-primary}
+:::
+::::
+
+:::: hero-photo
+![The Science Center at Georgia Southern University's Armstrong Campus. Photo by M. dela Cerna, 2024.](images/science_center.jpeg){fig-alt="Science Center at the Armstrong Campus in Savannah, home of the dela Cerna lab"}
+::::
+:::::
+
+:::: home-section
+## Proteins at the center of discovery
+
+::: theme-grid
+:::: theme-item
+### Structure & dynamics
+
+We investigate how protein structure, motion, and interactions shape function, with a focus on protein tyrosine phosphatases and homeodomains.
+
+[Explore structural biology](research/index.qmd#prl3-structure-and-dynamics)
+::::
+
+:::: theme-item
+### Drug discovery
+
+We combine computational screening, protein biochemistry, and cellular assays to identify and characterize molecules targeting disease-related proteins.
+
+[Explore drug discovery](research/index.qmd#prl3-drug-discovery)
+::::
+
+:::: theme-item
+### Shared curiosity
+
+Our lab collaborates across disciplines and welcomes students interested in asking new questions about proteins and biology.
+
+[Work with us](contact.qmd)
+::::
+:::
+::::
+
+:::: home-section
+## Latest from the lab
+
+::: latest-grid
+{{< include _generated/latest.qmd >}}
 :::
 
-::: front-matter-fig
-![The Science Center at Georgia Southern University's Armstrong Campus in Savannah—home to the dela Cerna Laboratory of Structural Biology and Drug Discovery. <br> Photo by M. dela Cerna, 2024.](images/science_center.jpeg){.hero-img fig-alt="The Science Center at Georgia Southern University's Armstrong Campus" width="100%"}
-:::
+[All lab news](news/index.qmd){.btn .btn-outline-primary}
+::::
 
-## About Our Research
+:::: {.home-section .funding-section}
+## Supporting our research
 
-The lab focuses its investigations on proteins—from the fundamental relationship between structure, function, and dynamics to exploring their potential as molecular targets in various diseases. We work on a variety of protein families with a strong emphasis on **protein tyrosine phosphatases (PTPs)**, a superfamily of phosphatases.
+Our PRL3 research is funded by the **National Institutes of Health** through **R16GM154696**, with additional instrumentation support through **S15OD039824**. Our work also receives support from Georgia Southern's Faculty Council Seed Grant, COSM Collaborative Grant Initiatives with Dr. Brown and Dr. Chitiyo, the Vertically Integrated Projects Program, and the Office of Research and Economic Development.
 
-Several drug discovery programs are currently ongoing for development of potential therapeutics, including:
-
--   **Anti-cancer and anti-metastasis compounds** targeting human PTPs
--   **Antimicrobials** targeting bacterial PTPs
-
-Additionally, we are interested in uncovering the relationship between protein structure, function, and dynamics. The lab also collaborates with other investigators within and outside Georgia Southern to pursue projects related to biochemistry, broadly.
-
-Our PRL3 research is funded by the **National Institutes of Health** through an R16 (**R16GM154696**) with additional instrumentation support (**S15OD039824**). Additionally, several projects in the lab supported by a number internal grants, including a **Faculty Council Seed Grant** and two **Collaborative Grant Initiatives** (with Dr. Brown and Dr. Chitiyo) from COSM, with support from the **Vertically Integrated Projects** Program at GS and the **Office of Research and Economic Development**. 
-
-::: front-matter-fig
-![](images/funding.png){.hero-img fig-alt="Current Funding Sources" width="100%"}
-:::
-
-
-::::::: home-band
-## What are we currently working on? {.text-center}
-
-:::::: columns
-::: {.column width="45%"}
-### Structure and Dynamics
-
-We are currently focused on determining the structure of **protein tyrosine phosphatases** and their complexes with inhibitors, primarily **PRL3** bound to novel inhibitors our group has identified. We are also investigating the relationship of structure, function, and dynamics of **homeodomains**.
-:::
-
-::: {.column width="10%"}
-:::
-
-::: {.column width="45%"}
-### Drug Discovery
-
-Active drug discovery programs in the lab are focused on targeting several PTPs, notably **PRL3** for migrastatics and **SP-PTP** from *S. pyogenes* for antimicrobial development. We also have active programs against **GMPK**, **MDMX**, and **ERα**.
-:::
-::::::
-:::::::
-
-::: {.d-flex .justify-content-center .gap-3 .flex-wrap .my-4}
-[Explore our Research](research/){.btn .btn-outline-primary .btn-lg} [Meet the Team](people/){.btn .btn-outline-primary .btn-lg} [Latest News](news/){.btn .btn-outline-primary .btn-lg}
-:::
+![](images/funding.png){.funding-image fig-alt="Current funding sources supporting the lab" loading="lazy"}
+::::

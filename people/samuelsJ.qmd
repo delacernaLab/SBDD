@@ -1,6 +1,6 @@
 ---
 title: "Jada Samuels"
-image: /people/images/jsamuels.png
+image: /people/images/jsamuels.webp
 subtitle: "Undergraduate Student"
 categories: [Undergraduate, Biochemistry]
 order: 6
@@ -8,7 +8,7 @@ order: 6
 
 ::::::: {.columns .person-cols}
 :::: {.column width="28%"}
-![](/people/images/jsamuels.png){.avatar-lg alt="Jada Samuels"}
+![](/people/images/jsamuels.webp){.avatar-lg alt="Jada Samuels"}
 
 ::: {.d-flex .justify-content-center .gap-3 .flex-wrap .my-3}
 [Lab Page](https://delacernalab.github.io/SBDD/){.btn .btn-sm .btn-outline-primary}

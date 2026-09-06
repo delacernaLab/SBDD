@@ -1,6 +1,6 @@
 ---
 title: "Walter Yang"
-image: /people/images/wyang.jpeg
+image: /people/images/wyang.webp
 subtitle: "High School"
 categories: [High School]
 order: 10
@@ -8,7 +8,7 @@ order: 10
 
 ::::::: {.columns .person-cols}
 :::: {.column width="28%"}
-![](/people/images/wyang.jpeg){.avatar-lg alt="Walter Yang"}
+![](/people/images/wyang.webp){.avatar-lg alt="Walter Yang"}
 
 ::: {.d-flex .justify-content-center .gap-3 .flex-wrap .my-3}
 [Lab Page](https://delacernalab.github.io/SBDD/){.btn .btn-sm .btn-outline-primary}

@@ -1,19 +1,20 @@
 ---
-title: "Members of the dela Cerna Research Group"
+title: "Our People"
 listing:
+  id: people-grid
   contents: "*.qmd"
   type: grid
-  grid-columns: 4
+  grid-columns: 3
   grid-item-border: false
   sort: ["order", "categories", "title"]
   fields: [image, title, subtitle, categories]
-  filter-ui: false
-  image-height: 250px
+  filter-ui: true
+  image-height: 280px
   exclude:
     alumni: true
 ---
 
-Click on each profile to learn more about the active members of the lab. To see past members, [click here](alumni.html).
+Meet the researchers behind our work. Explore a profile, or visit our [lab alumni](alumni.qmd).
 
 ::: {.fun .amber}
 ### We are slowly migrating into this new website, so member list and profiles are still under development.

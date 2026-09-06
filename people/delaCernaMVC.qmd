@@ -1,6 +1,6 @@
 ---
 title: "Mark dela Cerna, PhD"
-image: /people/images/mvcdelacerna.png   
+image: /people/images/mvcdelacerna.webp
 subtitle: "Principal Investigator"
 categories: [Faculty, PI]
 order: 1
@@ -8,7 +8,7 @@ order: 1
 
 ::::::: {.columns .person-cols}
 :::: {.column width="28%"}
-![](/people/images/mvcdelacerna.png){.avatar-lg alt="Mark dela Cerna"}
+![](/people/images/mvcdelacerna.webp){.avatar-lg alt="Mark dela Cerna"}
 
 ::: {.d-flex .justify-content-center .gap-3 .flex-wrap .my-3}
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=ZM5OfF4AAAAJ){.btn .btn-sm .btn-outline-primary} [GA Southern Scholars](https://scholars.georgiasouthern.edu/en/persons/mark-vincent-dela-cerna){.btn .btn-sm .btn-outline-primary} [Lab Instagram](https://www.instagram.com/delacernalab/){.btn .btn-sm .btn-outline-primary} [LinkedIn](https://www.linkedin.com/in/mark-vincent-dela-cerna-b1558311a/){.btn .btn-sm .btn-outline-primary}

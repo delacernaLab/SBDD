@@ -1,6 +1,6 @@
 ---
 title: "Oscar Sistos-Barron"
-image: /people/images/osistosbarron.png
+image: /people/images/osistosbarron.webp
 subtitle: "Undergraduate Student"
 categories: [Undergraduate, Biochemistry]
 order: 6
@@ -8,7 +8,7 @@ order: 6
 
 ::::::: {.columns .person-cols}
 :::: {.column width="28%"}
-![](/people/images/osistosbarron.png){.avatar-lg alt="Oscar Sistos-Barron"}
+![](/people/images/osistosbarron.webp){.avatar-lg alt="Oscar Sistos-Barron"}
 
 ::: {.d-flex .justify-content-center .gap-3 .flex-wrap .my-3}
 [Lab Page](https://delacernalab.github.io/SBDD/){.btn .btn-sm .btn-outline-primary}

@@ -1,6 +1,6 @@
 ---
 title: "Gracie Bliss"
-image: /people/images/gbliss.png
+image: /people/images/gbliss.webp
 subtitle: "Undergraduate Student"
 categories: [Undergraduate, Biology]
 order: 6
@@ -8,7 +8,7 @@ order: 6
 
 ::::::: {.columns .person-cols}
 :::: {.column width="28%"}
-![](/people/images/gbliss.png){.avatar-lg alt="Gracie Bliss"}
+![](/people/images/gbliss.webp){.avatar-lg alt="Gracie Bliss"}
 
 ::: {.d-flex .justify-content-center .gap-3 .flex-wrap .my-3}
 [Lab Page](https://delacernalab.github.io/SBDD/){.btn .btn-sm .btn-outline-primary}

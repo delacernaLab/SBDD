@@ -1,37 +1,60 @@
 project:
   type: website
   output-dir: _site
-
+  pre-render:
+  - python3 scripts/build-content.py
+  render:
+  - '*.qmd'
+  - people/*.qmd
+  - research/*.qmd
+  - news/*.qmd
+  - publications/*.qmd
+  resources:
+  - assets/
+  - '!content/'
+  - '!scripts/'
+  - '!templates/'
+  - '!README.md'
+  - '!requirements.txt'
 website:
-  title: "Laboratory of Structural Biology and Drug Discovery"
+  title: Laboratory of Structural Biology and Drug Discovery
   navbar:
     logo: images/temp_logo.png
     left:
-      - file: index.qmd
-        text: Home
-      - file: research/index.qmd
-        text: Research
-      - file: people/index.qmd
-        text: People
-      - file: publications/index.qmd
-        text: Publications
-      - file: news/index.qmd
-        text: News
-      - file: contact.qmd
-        text: Contact
+    - file: index.qmd
+      text: Home
+    - file: research/index.qmd
+      text: Research
+    - file: people/index.qmd
+      text: People
+    - file: publications/index.qmd
+      text: Publications
+    - file: news/index.qmd
+      text: News
+    - file: contact.qmd
+      text: Contact & Join
     right:
-      - icon: github
-        href: https://github.com/mdelacerna
+    - icon: github
+      href: https://github.com/delacernaLab/SBDD
+    title: dC Lab
   page-footer:
-   center: |
-      © <script>document.write(new Date().getFullYear())</script> dC Lab • Georgia Southern University
-  favicon: images/favicon.ico
+    center: '© <script>document.write(new Date().getFullYear())</script> dC Lab •
+      Georgia Southern University
 
+      '
+  favicon: images/favicon.ico
+  description: Protein structure, dynamics, and drug discovery in the dela Cerna lab
+    at Georgia Southern University.
+  search:
+    location: navbar
+    type: overlay
 format:
   html:
-    theme: cosmo
+    theme:
+    - cosmo
+    - theme.scss
     css: styles.css
     toc: false
     smooth-scroll: true
-
+    link-external-newwindow: true
 editor: visual
