@@ -1,6 +1,6 @@
 ---
 title: "Ella An"
-image: /people/images/ean.jpeg
+image: /people/images/ean.webp
 subtitle: "High School"
 categories: [High School]
 order: 10
@@ -8,7 +8,7 @@ order: 10
 
 ::::::: {.columns .person-cols}
 :::: {.column width="28%"}
-![](/people/images/ean.jpeg){.avatar-lg alt="Ella An"}
+![](/people/images/ean.webp){.avatar-lg alt="Ella An"}
 
 ::: {.d-flex .justify-content-center .gap-3 .flex-wrap .my-3}
 [Lab Page](https://delacernalab.github.io/SBDD/){.btn .btn-sm .btn-outline-primary}

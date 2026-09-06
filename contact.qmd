@@ -8,154 +8,66 @@ If any of our projects sound interesting to you, or maybe you need help with any
 :::
 
 ```{=html}
-<style>
-.contact-container {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 2rem;
-  margin: 2rem 0;
-}
 
-.contact-section h3 {
-  color: #1816a9;
-  margin-top: 0;
-  margin-bottom: 1rem;
-}
-
-.contact-info {
-  margin-bottom: 0.25rem;
-}
-
-.contact-info:last-of-type {
-  margin-top: 1rem;
-}
-
-.contact-info strong {
-  display: inline;
-  color: #1816a9;
-  margin-right: 0.5rem;
-  font-size: 0.95rem;
-}
-
-.contact-info p {
-  display: inline;
-  margin: 0;
-  line-height: 1.6;
-}
-
-.contact-info a {
-  color: #1816a9;
-  text-decoration: none;
-}
-
-.contact-info a:hover {
-  text-decoration: underline;
-}
-
-.map-container {
-  width: 100%;
-  height: 400px;
-  border-radius: 8px;
-  overflow: hidden;
-  margin-bottom: 1.5rem;
-  box-shadow: 0 2px 8px rgba(0,0,0,.1);
-}
-
-.map-container iframe {
-  width: 100%;
-  height: 100%;
-  border: 0;
-}
-
-.building-image {
-  width: 100%;
-  max-height: 400px;
-  object-fit: cover;
-  border-radius: 12px;
-  box-shadow: 0 4px 12px rgba(0,0,0,.1);
-  margin: 2rem 0;
-}
-
-.lab-motto {
-  text-align: center;
-  font-style: italic;
-  font-size: 1.1rem;
-  color: #1816a9;
-  margin-top: 3rem;
-  padding: 1.5rem;
-  background: #f8f9fa;
-  border-radius: 8px;
-}
-
-@media (max-width: 768px) {
-  .contact-container {
-    grid-template-columns: 1fr;
-  }
-  
-  .map-container {
-    height: 300px;
-  }
-}
-</style>
 
 <div class="contact-container">
   <div class="contact-section">
     <h3>Lab Information</h3>
-    
+
     <div class="map-container">
-      <iframe 
-        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3384.288883505524!2d-81.16608068704451!3d31.980183413755086!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88fb74b582428d17%3A0xacd54df87df609eb!2sCollege%20of%20Science%20and%20Mathematics!5e0!3m2!1sen!2sus!4v1769313521644!5m2!1sen!2sus" 
-        allowfullscreen="" 
-        loading="lazy" 
+      <iframe title="Location of the lab at Georgia Southern’s Armstrong Campus"
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3384.288883505524!2d-81.16608068704451!3d31.980183413755086!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88fb74b582428d17%3A0xacd54df87df609eb!2sCollege%20of%20Science%20and%20Mathematics!5e0!3m2!1sen!2sus!4v1769313521644!5m2!1sen!2sus"
+        allowfullscreen=""
+        loading="lazy"
         referrerpolicy="no-referrer-when-downgrade">
       </iframe>
     </div>
-    
+
     <div class="contact-info">
       <strong>PI:</strong> Dr. Mark dela Cerna
     </div>
-    
+
     <div class="contact-info">
       <strong>Office:</strong> SC2012
     </div>
-    
+
     <div class="contact-info">
       <strong>Lab:</strong> SC2309, SC2305, SC1301
     </div>
-    
+
     <div class="contact-info">
       <strong>Address:</strong> 11935 Abercorn Street, Savannah, GA 31419
     </div>
-    
+
     <div class="contact-info">
       <strong>Email:</strong> <a href="mailto:mdelacerna@georgiasouthern.edu">mdelacerna@georgiasouthern.edu</a>
     </div>
-    
+
     <div class="contact-info">
       <strong>Phone:</strong> <a href="tel:912-344-2507">912-344-2507</a>
     </div>
-    
+
     <div class="contact-info">
       <strong>Instagram:</strong> <a href="https://www.instagram.com/delacernalab/" target="_blank">@delacernalab</a>
     </div>
-    
+
     <div class="contact-info">
       <strong>Collaborations:</strong>
       <p>We work closely with faculty from the <a href="https://www.georgiasouthern.edu/colleges/science-mathematics/departments/biology" target="_blank">Department of Biology</a>, and collaborate with researchers from other institutions such as Mercer in Savannah, South, the Georgia Cancer Center, and others.
     </div>
   </div>
-  
+
   <div class="contact-section">
-    <h3>Interested in Joining?</h3>
-    
+    <h3 id="join">Interested in Joining?</h3>
+
     <p style="margin-bottom: 1.5rem;">
-      Our lab is affiliated with the <a href="https://www.georgiasouthern.edu/colleges/science-mathematics/departments/biochemistry-chemistry-physics" target="_blank">Department of Biochemistry, Chemistry, and Physics</a>, and the <a href="https://www.georgiasouthern.edu/colleges/science-mathematics/departments/biomedical-sciences" target="_blank">Department of Biomedical Sciences</a>, and welcome students from our programs to explore research options! 
+      Our lab is affiliated with the <a href="https://www.georgiasouthern.edu/colleges/science-mathematics/departments/biochemistry-chemistry-physics" target="_blank">Department of Biochemistry, Chemistry, and Physics</a>, and the <a href="https://www.georgiasouthern.edu/colleges/science-mathematics/departments/biomedical-sciences" target="_blank">Department of Biomedical Sciences</a>, and welcome students from our programs to explore research options!
     </p>
 
     <p style="margin-bottom: 1.5rem;">
       That said, if you are highly passionate about science and research and interested in any of the work we do, or adjacent areas, chat with us to see if there is any opportunity to work together. Any majors at Georgia Southern are welcome to join at various capacities. Majority of the students in the lab are <a href="https://www.georgiasouthern.edu/degrees/bachelor-of-science-in-biomedical-sciences" target="_blank">Biomedical Sciences</a>, <a href="https://www.georgiasouthern.edu/degrees/bs-biochemistry" target="_blank">Biochemistry</a>, and <a href="https://www.georgiasouthern.edu/degrees/bs-chemistry" target="_blank">Chemistry</a> majors, but we do not require any prior training or classes. Students can get research credit (BIO, BMED, BCHM, CHEM, or VIP) and/or may be employed as student researchers, depending on funding situation. Summer fellowships are sometimes available from the department or the college.
     </p>
-    
+
     <p style="margin-bottom: 1.5rem;">
       We do not typically advertise positions for MS students, as we mostly host students in the accelerated <a href="https://www.georgiasouthern.edu/degrees/masters-in-applied-physical-science" target="_blank">BS-MS Applied Physical Science program</a>. We anticipate trainees from our recently launched <a href="https://www.georgiasouthern.edu/degrees/phd-in-biomedical-sciences" target="_blank">PhD in Biomedical Sciences Program</a>. Post-doctoral and staff positions are dependent on funding. Reach out directly if you need a sponsor for a grant or a fellowship. High school and external students may also participate either virtually for computational work or during the summer through research opportunities or transient/dual-enrollment.
     </p>

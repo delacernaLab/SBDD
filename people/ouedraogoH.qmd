@@ -1,6 +1,6 @@
 ---
 title: "Honore Ouedraogo"
-image: /people/images/pouedraogo.png
+image: /people/images/pouedraogo.webp
 subtitle: "Graduate Student - MS"
 categories: [Graduate, APS]
 order: 5
@@ -8,7 +8,7 @@ order: 5
 
 ::::::: {.columns .person-cols}
 :::: {.column width="28%"}
-![](/people/images/pouedraogo.png){.avatar-lg alt="Honore Ouedraogo"}
+![](/people/images/pouedraogo.webp){.avatar-lg alt="Honore Ouedraogo"}
 
 ::: {.d-flex .justify-content-center .gap-3 .flex-wrap .my-3}
 [Lab Page](https://delacernalab.github.io/SBDD/){.btn .btn-sm .btn-outline-primary}

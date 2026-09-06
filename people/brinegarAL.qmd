@@ -1,6 +1,6 @@
 ---
 title: "Alicia Brinegar"
-image: /people/images/abrinegar.jpg  
+image: /people/images/abrinegar.webp
 subtitle: "Research Assistant"
 categories: [Staff, Biochemistry]
 order: 2
@@ -8,7 +8,7 @@ order: 2
 
 ::::::: {.columns .person-cols}
 :::: {.column width="28%"}
-![](/people/images/abrinegar.jpg){.avatar-lg alt="Alicia Brinegar"}
+![](/people/images/abrinegar.webp){.avatar-lg alt="Alicia Brinegar"}
 
 ::: {.d-flex .justify-content-center .gap-3 .flex-wrap .my-3}
 [LinkedIn](https://www.linkedin.com/in/alicia-brinegar-76991b186/){.btn .btn-sm .btn-outline-primary}
